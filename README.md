@@ -1,20 +1,12 @@
-## Hi there 👋
+## 👋 Hi there  
+안녕하세요. 성장과 연결을 좋아하는 개발자 이정수입니다.
 
-<!--
-**dlwjdtn1112/dlwjdtn1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+낯선 문제를 마주하는 걸 두려워하지 않고,  
+하나하나 뜯어보며 이해하고 구현해가는 과정을 즐깁니다.  
+혼자보다 함께 잘 만들기 위해, 소통과 기록을 소중히 여깁니다.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-안녕하세요. 백엔드 개발자를 희망하고 있는 이정수입니다.
+늘 다음을 상상하며 배우고,  
+오늘보다 나은 구조와 흐름을 고민하는 사람입니다.
 
 
 
