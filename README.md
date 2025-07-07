@@ -41,5 +41,7 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+
 
 ...
