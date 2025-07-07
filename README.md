@@ -30,6 +30,8 @@
 ![OAuth2](https://img.shields.io/badge/OAuth2-0072C6?style=flat)
 
 **Front-end**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat)
 
