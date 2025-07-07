@@ -52,4 +52,33 @@
 
 
 
+### 📚 신세계 SSG Tech 캠프에서 학습한 기술
+
+- **Backend**  
+  Java, Spring Boot, JSP, MySQL
+
+- **Frontend (기초)**  
+  HTML, JavaScript
+
+- **Deployment**  
+  Naver Cloud Platform 기반 배포 실습 (EC2, DB 연결, 보안 설정 등)
+
+- **Project Focus**  
+  - DB 설계 및 연동 기반 CRUD 서비스 구현  
+  - JSP 기반 MVC 구조 실습  
+  - RESTful API 설계 및 사용자 인증 처리 (JWT/OAuth2)  
+  - Git 기반 협업 경험 및 브랜치 전략 적용
+
+- **프로젝트**  
+  - 🧑‍💻 **E-VENTORY** (1·2차 개인 프로젝트)  
+    전자제품 창고 관리 시스템. 재고 등록, 검색, 수정, 삭제 기능 중심의 CRUD 백엔드 API 및 JSP 기반 UI 구성.  
+    Spring Boot + MySQL + JSP 환경에서 단독 설계 및 개발
+
+  - 🤝 **LAW & ROAD** (파이널 협업 프로젝트)  
+    교통 전문 변호사와 의뢰인을 연결하는 법률상담 라이브커머스 플랫폼.  
+    JWT 인증, 예약 시스템, 관리자 기능, OAuth2 로그인 등 구현. 팀 내 백엔드 로직 및 배포 전반 담당.
+
+
+
+
 ...
