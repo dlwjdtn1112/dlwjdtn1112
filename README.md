@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 ### 🎓 학력
 - 인하대학교 정보통신공학과
+
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat&logo=MyBatis&logoColor=white)
+...
