@@ -44,4 +44,10 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 
 
+
+### 📄 자격증
+- SQLD (SQL 개발자 / 한국데이터산업진흥원) – 2024년 3월 취득
+
+
+
 ...
