@@ -78,6 +78,8 @@
     교통 전문 변호사와 의뢰인을 연결하는 법률상담 라이브커머스 플랫폼.  
     JWT 인증, 예약 시스템, 관리자 기능, OAuth2 로그인 등 구현. 팀 내 백엔드 로직 및 배포 전반 담당.
 
+  
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={dlwjdtn1112})
 
 
 
