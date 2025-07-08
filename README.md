@@ -13,6 +13,10 @@
 ### 🎓 학력
 - 인하대학교 정보통신공학과
 
+- ### 🧠 알고리즘 실력 지표 (백준 기준)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwjdtn1112)](https://solved.ac/profile/dlwjdtn1112)
+
 
 ### 🛠️ Tech Stack
 
@@ -79,9 +83,7 @@
     JWT 인증, 예약 시스템, 관리자 기능, OAuth2 로그인 등 구현. 팀 내 백엔드 로직 및 배포 전반 담당.
 
   
-### 🧠 알고리즘 실력 지표 (백준 기준)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwjdtn1112)](https://solved.ac/profile/dlwjdtn1112)
 
 
 
