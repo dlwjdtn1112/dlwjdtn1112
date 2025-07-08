@@ -14,7 +14,7 @@
 - 인하대학교 정보통신공학과
 
   
-### 🧠 알고리즘 실력 지표 (백준 기준)
+### 🧠 알고리즘 실력 지표 (백준)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwjdtn1112)](https://solved.ac/profile/dlwjdtn1112)
 
