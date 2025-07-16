@@ -8,6 +8,7 @@
 늘 다음을 상상하며 배우고,  
 오늘보다 나은 구조와 흐름을 고민하는 사람입니다.
 
+![정수's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlwjdtn1112&show_icons=true&theme=default)
 
 
 ### 🎓 학력
