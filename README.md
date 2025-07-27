@@ -63,11 +63,11 @@
 - **Backend**  
   Java, Spring Boot, JSP, MySQL
 
-- **Frontend (기초)**  
+- **Frontend **  
   HTML, JavaScript
 
 - **Deployment**  
-  Naver Cloud Platform 기반 배포 실습 (EC2, DB 연결, 보안 설정 등)
+  Naver Cloud Platform 기반 배포 실습 
 
 - **Project Focus**  
   - DB 설계 및 연동 기반 CRUD 서비스 구현  
