@@ -1,4 +1,9 @@
-## 👋 Hi there  
+## 👋 Hi there 
+
+![Good Day To Code Banner](./assets/good-day-banner.png)
+
+Welcome to my project! Here you will find...
+
 안녕하세요. 성장과 연결을 좋아하는 개발자 이정수입니다.
 
 낯선 문제를 마주하는 걸 두려워하지 않고,  
